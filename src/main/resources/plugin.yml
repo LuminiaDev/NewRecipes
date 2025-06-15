@@ -1,0 +1,5 @@
+name: "NewRecipes"
+version: "1.0.0"
+main: com.koshakmine.newrecipes.NewRecipes
+authors: ["Koshak_Mine"]
+api: ["CUSTOM"]
