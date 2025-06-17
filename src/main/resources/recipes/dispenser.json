@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:dispenser"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "XXX",
+      "XYX",
+      "XZX"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:cobblestone"
+      },
+      "Y": {
+        "item": "minecraft:bow"
+      },
+      "Z": {
+        "item": "minecraft:redstone"
+      }
+    },
+    "result": {
+      "item": "minecraft:dispenser",
+      "count": 1
+    }
+  }
+}
