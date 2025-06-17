@@ -8,7 +8,7 @@ java {
 }
 
 group = "com.koshakmine.newrecipes"
-version = "1.0-SNAPSHOT"
+version = "1.0.2-SNAPSHOT"
 
 repositories {
     mavenCentral()
