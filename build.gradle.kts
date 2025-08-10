@@ -8,13 +8,13 @@ java {
 }
 
 group = "com.koshakmine.newrecipes"
-version = "1.0.2-SNAPSHOT"
+version = "1.1.0-SNAPSHOT"
 
 repositories {
     mavenCentral()
-    maven("https://repo.lanink.cn/repository/maven-public/")
+    maven("https://repo.luminiadev.com/snapshots")
 }
 
 dependencies {
-    compileOnly("cn.nukkit:Nukkit:MOT-SNAPSHOT")
+    compileOnly("com.koshakmine:Lumi:1.1.0-SNAPSHOT")
 }
